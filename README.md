@@ -5,5 +5,5 @@ Songs about Computer science, in this case, parodies of Beatles songs.
 
 Songs recorded by the *anonymous* artist **Alexa de Codeville** for his album **Apes of Wrath**.
 
-![Apes of Wrath](https://darrelllong.github.io/images/Apes_Of_Wrath.jpg)
+![Apes of Wrath](https://darrelllong.github.io/images/Apes_Of_Wrath.png)
 
